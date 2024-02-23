@@ -1,4 +1,4 @@
-# ProjectList
+# Azure DevOps Project
 
 
 - [APIGitOps](https://dev.azure.com/RishiAzureLearning/APIGitOps)
